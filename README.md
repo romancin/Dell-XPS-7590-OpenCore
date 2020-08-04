@@ -19,7 +19,7 @@ RAM | Crucial DDR4 2666MHz 16GB *2
 SSD | NVMe ADATA SX8200 Pro 1TB
 Wireless | BCM94352Zz (DW1560)
 
-##### Note before use
+## Note before use
 -**Please refer to this article first: [XPS 7590 1.6.0 UEFI: unlock undervolting and remove CFG lock](https://www.reddit.com/r/Dell/comments/fzv599/xps_7590_160_uefi_unlock_undervolting_and_remove/), for CFG Lock Unlock and undervolting capabilites! **
 
 ## Working
