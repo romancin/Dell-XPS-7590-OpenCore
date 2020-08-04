@@ -50,6 +50,9 @@ SD Card reader (no driver available)
 
 ## Thanks
 -Apple
+
 -[@Acidanthera](https://github.com/acidanthera)
+
 -[@gorquan](https://github.com/gorquan) This repo is based on your work, thank you very much :)
+
 -[@tiger511](https://github.com/tiger511) For developing VoodooI2C fork for our laptop, awesome work, it works much better than current version by Acidanthera, thank you very much :)
