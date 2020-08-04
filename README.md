@@ -4,7 +4,7 @@ Repository to hold the files needed to install and run macOS on Dell XPS 7590
 Change XX-MASKED-XX values in PlatformInfo section in config.plist file with your own values. Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
 
 ## Tested versions
-OpenCore: 0.5.9
+OpenCore: 0.6.0
 
 MacOS: macOS Catalina 10.15.6
 
