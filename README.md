@@ -1,4 +1,4 @@
-# HP-ProDesk600-G5-mini-OpenCore
+# Dell-XPS-7590-OpenCore
 Repository to hold the files needed to install and run macOS on Dell XPS 7590
 
 Change XX-MASKED-XX values in PlatformInfo section in config.plist file with your own values. Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
